@@ -1,4 +1,4 @@
-# NYTWordle README
+# NYTWordle 
 
 ## Overview
 A Python program designed to assist players of the New York Times [Wordle](https://www.nytimes.com/games/wordle/index.html) puzzle. It suggests optimal starting words and refines guesses based on feedback to enhance your solving experience.
