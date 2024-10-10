@@ -34,7 +34,7 @@ The ranking list for both the **`best`** and **`best all`** features is sorted b
 ### Usage
 1. Run the program:
    ```bash
-   python nyt_wordle.py
+   python NYTWordle.py
    ```
 2. When prompted, choose whether to search in all English words (Not all of them are meaningful but you get to the solution faster) or just common words (All have meanings) by entering ``all`` or ``common``.
 3. The program will suggest an optimal starting word based on your selection.
