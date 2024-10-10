@@ -3,6 +3,15 @@
 ## Overview
 A Python program designed to assist players of the New York Times [Wordle](https://www.nytimes.com/games/wordle/index.html) puzzle. It suggests optimal starting words and refines guesses based on feedback to enhance your solving experience.
 
+## NYT Puzzles and codes
+| Puzzles        | Code       |
+|----------------|----------------|
+| [Wordle](https://www.nytimes.com/games/wordle/index.html)    | NYTWordle          |
+| [Letter Boxed](https://www.nytimes.com/puzzles/letter-boxed) | [NYTLetterBoxed](https://github.com/FarnoodID/NYTLetterBoxed) |
+| [Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee) | [NYTSpellingBee](https://github.com/FarnoodID/NYTSpellingBee) |
+| [Sudoku](https://www.nytimes.com/puzzles/sudoku)             | [NYTSudoku](https://github.com/FarnoodID/NYTSudoku)           |
+| [Pixletters](https://pixletters.com/)                        | [Pixletters](https://github.com/FarnoodID/Pixletters)         |
+
 ## Features
 - **Getting Best Words**: 
   - To see a list of the **10 best words** to use based on current possibilities, type **`best`**.
